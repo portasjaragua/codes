@@ -1,0 +1,13 @@
+{
+  "name": "Portas Jaraguá",
+  "short_name": "Portas Jguá",
+  "description": "Portas de madeira de alto padrão sob medida.",
+  "start_url": "https://www.portasjaragua.com.br/",
+  "background_color": "#000000",
+  "theme_color": "#da251c",
+  "icons": [{
+    "src": "https://3.bp.blogspot.com/-CGEUzpwrFUo/W5Z89X_kRYI/AAAAAAAAA3g/EvwaT4c86AwBdamYQRSCBxc4pUPllhgzACLcBGAs/s1600/icon-256x256.png",
+    "sizes": "256x256",
+    "type": "image/png"
+  }]
+}
