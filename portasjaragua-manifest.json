@@ -9,6 +9,10 @@
   "background_color": "#000000",
   "theme_color": "#da251c",
   "icons": [{
+    "src": "https://1.bp.blogspot.com/-MSPWnY_dpK4/W5fK_maT5hI/AAAAAAAAA4g/PphUvth3ywg6yBUo_1PQOP_QNr6o1WhmgCLcBGAs/s1600/icon-512x512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  },{
     "src": "https://3.bp.blogspot.com/-CGEUzpwrFUo/W5Z89X_kRYI/AAAAAAAAA3g/EvwaT4c86AwBdamYQRSCBxc4pUPllhgzACLcBGAs/s1600/icon-256x256.png",
     "sizes": "256x256",
     "type": "image/png"
