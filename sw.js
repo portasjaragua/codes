@@ -1,1 +1,3 @@
-console.log('This is sw.js')
+self.addEventListener('fetch', event => {
+  console.log(event);
+})
