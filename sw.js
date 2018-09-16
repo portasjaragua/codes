@@ -1,1 +1,1 @@
-console.log("This is sw.js")
+console.log('This is sw.js')
