@@ -1,0 +1,20 @@
+{
+  "name": "Esquadrias Zapelini",
+  "short_name": "Zapelini",
+  "description": "Portas e rodapés em madeira sob medida..",
+  "start_url": "https://www.esquadriaszapelini.com.br/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "lang": "pt-BR",
+  "background_color": "#ffffff",
+  "theme_color": "#1d809f",
+  "icons": [{
+    "src": "https://2.bp.blogspot.com/-9B9oXhDcQGQ/W6KOD6n-TJI/AAAAAAAAA_c/lVgVgAl7BOAhKtccCz43LMCIUJZjchA2gCPcBGAYYCw/s1600/favicon512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  },{
+    "src": "https://1.bp.blogspot.com/-uQWCCousCUc/W6KODYHABPI/AAAAAAAAA_U/wC2-4aMDnL00dpUlerWwoGnzBvZKy4U4wCPcBGAYYCw/s1600/favicon256.png",
+    "sizes": "256x256",
+    "type": "image/png"
+  }]
+}
